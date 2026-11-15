@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/aifivem/ai-banking/compare/v0.2.0...v0.2.1) (2026-11-15)
+
+
+### Code Refactoring
+
+* **web:** individual translate / scale / rotate utilities instead of arbitrary transforms (CEF 144) ([c224ab2](https://github.com/aifivem/ai-banking/commit/c224ab2d66cc33b7860a0fef6f83b8e7fc74c207))
+
 ## [0.2.0](https://github.com/aifivem/ai-banking/compare/v0.1.5...v0.2.0) (2026-11-02)
 
 
