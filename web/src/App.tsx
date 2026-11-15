@@ -93,7 +93,7 @@ export function App() {
                 aria-selected={k === kind}
                 onClick={() => setKind(k)}
                 className={cn(
-                  "relative flex h-[4vh] w-[12.4vh] items-center justify-center gap-[0.8vh] rounded-[0.8vh] text-[1.3vh] transition-[background-color,color,transform] duration-150 active:[transform:scale(0.96)]",
+                  "relative flex h-[4vh] w-[12.4vh] items-center justify-center gap-[0.8vh] rounded-[0.8vh] text-[1.3vh] transition-[background-color,color,transform,translate,scale,rotate] duration-150 active:scale-96",
                   k === kind
                     ? "font-bold text-tgi-green-text"
                     : "bg-control font-semibold text-text-3 hover:bg-control-hover hover:text-white",
