@@ -1,4 +1,4 @@
-import { mysql } from "@aifivem/mysql";
+import { mysql } from "@aicore8/mysql";
 import type { Transaction } from "common/bank";
 
 const PAGE = 30;

@@ -2,8 +2,8 @@ import {
   BLIP_STYLE_FIELDS,
   PLACE_PED_SPEC,
   placePedFields,
-} from "@aifivem/lib/shared";
-import type { DataSpec, TabSpec } from "@aifivem/shared";
+} from "@aicore8/lib/shared";
+import type { DataSpec, TabSpec } from "@aicore8/shared";
 
 /** Data of a place (a bank branch): name, counter point, reach, blip and NPC. */
 export const PLACE_SECTIONS: Record<string, DataSpec> = {

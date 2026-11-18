@@ -3,7 +3,7 @@ import {
   onClientCallback,
   onClientEvent,
   online,
-} from "@aifivem/lib/server";
+} from "@aicore8/lib/server";
 import {
   type ActionResult,
   fail,
@@ -11,7 +11,7 @@ import {
   readInt,
   readText,
   readVec3,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 import {
   EVENTS,
   type ActionKind,

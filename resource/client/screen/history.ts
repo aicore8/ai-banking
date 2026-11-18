@@ -1,5 +1,5 @@
-import { callAction } from "@aifivem/lib/client";
-import { isRecord } from "@aifivem/lib/shared";
+import { callAction } from "@aicore8/lib/client";
+import { isRecord } from "@aicore8/lib/shared";
 import { EVENTS, type HistoryPage } from "common/bank";
 import { page } from "./screen";
 

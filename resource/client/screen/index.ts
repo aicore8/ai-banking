@@ -3,8 +3,8 @@ import {
   notify,
   onPlayerData,
   onServerEvent,
-} from "@aifivem/lib/client";
-import { isRecord, readText } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { isRecord, readText } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/bank";
 import { loadHistory } from "./history";

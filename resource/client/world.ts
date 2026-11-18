@@ -1,4 +1,4 @@
-import { AdminWorld } from "@aifivem/lib/client";
+import { AdminWorld } from "@aicore8/lib/client";
 import { readSettings } from "common/bank";
 
 export const world = new AdminWorld(["banks", "settings"]);

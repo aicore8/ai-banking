@@ -1,4 +1,4 @@
-import type { PanelSchema } from "@aifivem/shared";
+import type { PanelSchema } from "@aicore8/shared";
 import { PLACE_SECTIONS, placeTab } from "./placeSchema";
 
 /** ai-banking's panel: bank branches, ATM models and limits, the transfer fee and the police switch. */

@@ -1,6 +1,6 @@
-import { callAction, loadLocaleTexts, NuiScreen } from "@aifivem/lib/client";
-import { isRecord, readFinite } from "@aifivem/lib/shared";
-import { NUI_LAYER } from "@aifivem/shared";
+import { callAction, loadLocaleTexts, NuiScreen } from "@aicore8/lib/client";
+import { isRecord, readFinite } from "@aicore8/lib/shared";
+import { NUI_LAYER } from "@aicore8/shared";
 import {
   EVENTS,
   type BankSnapshot,

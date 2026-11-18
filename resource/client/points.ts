@@ -1,5 +1,5 @@
-import { Points } from "@aifivem/lib/client";
-import { RecordObjects } from "@aifivem/lib/shared";
+import { Points } from "@aicore8/lib/client";
+import { RecordObjects } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { readBank } from "common/bank";
 import { screen } from "./screen/screen";

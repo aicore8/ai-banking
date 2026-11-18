@@ -1,5 +1,5 @@
-import { isNear, PlayerMap } from "@aifivem/lib/server";
-import type { Vec3 } from "@aifivem/lib/shared";
+import { isNear, PlayerMap } from "@aicore8/lib/server";
+import type { Vec3 } from "@aicore8/lib/shared";
 import { EVENTS, type Where } from "common/bank";
 import { core } from "../core";
 import { banks } from "../panel";
