@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/aicore8/ai-banking/compare/v0.2.1...v0.2.2) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([7f801d8](https://github.com/aicore8/ai-banking/commit/7f801d838d4d771ae21eaf2f961c073c598ac537))
+
 ## [0.2.1](https://github.com/aicore8/ai-banking/compare/v0.2.0...v0.2.1) (2026-11-15)
 
 
